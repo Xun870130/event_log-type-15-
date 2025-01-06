@@ -1,10 +1,10 @@
-# Event Log Analyzer 🛠️
+# Event Log Analyzer 
 
 A Python-based utility for analyzing event logs, extracting hexadecimal blocks, and detecting SMBIOS Type 15 entries. This project is designed for developers and system engineers who need detailed insights from event logs.
 
 ---
 
-## Features 🚀
+## Features 
 - **Hex Block Extraction**: Extracts hex blocks from event logs for further analysis.
 - **SMBIOS Type 15 Detection**: Identifies and parses Type 15 SMBIOS entries.
 - **Configurable Parsing**: Utilizes an `.ini` file (`smbios_type15.ini`) for flexible configuration.
@@ -12,7 +12,7 @@ A Python-based utility for analyzing event logs, extracting hexadecimal blocks, 
 
 ---
 
-## Project Structure 📂
+## Project Structure 
 ```plaintext
 .
 ├── EventLogAnalyzer.py      # Main script for event log analysis
@@ -23,7 +23,7 @@ A Python-based utility for analyzing event logs, extracting hexadecimal blocks, 
 ├── run.bat                  # Batch file for quick execution
 ├── README.md                # Project documentation
 ```
-## Requirements 📦
+## Requirements 
 - **Python 3.10+**
 - **Required modules:**
 - os
@@ -31,7 +31,7 @@ A Python-based utility for analyzing event logs, extracting hexadecimal blocks, 
 - configparser
 - re
 
-##　Setup Instructions 🛠️
+## Setup Instructions 
 ---
 Clone the repository:
 
@@ -51,7 +51,7 @@ pip install <module_name>
 Update the smbios_type15.ini file if needed.
 Place your log file in the appropriate directory.
 
-## Usage 💡
+## Usage 
 1. Running the Analyzer
 Run the script using the command below:
 
@@ -76,18 +76,18 @@ echo tap Q to esc
 choice /c Q /n >nul
 goto :EOF
 ```
-## Output 📄
+## Output 
 After running the script, results will be saved in a file named analysis_result.log in the current directory. This file contains:
 
 Hex block analysis.
 SMBIOS Type 15 detection results.
 Summary of processed and skipped blocks.
-Contributing 🖊️
+Contributing 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 Fork the repository.
 Create a new branch for your feature/bug fix.
 Submit a pull request.
-## License 📜
+## License 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
