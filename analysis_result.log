@@ -1,0 +1,170 @@
+Extracted Hex Blocks as Matrices:
+
+Block 1: (Not Type 15)
+
+Block 2: (Not Type 15)
+
+Block 3: (Not Type 15)
+
+Block 4: (Not Type 15)
+
+Block 5: (Not Type 15)
+
+Block 6: (Not Type 15)
+
+Block 7: (Not Type 15)
+
+Block 8: (Not Type 15)
+
+Block 9: (Not Type 15)
+
+Block 10: (Not Type 15)
+
+Block 11: (Not Type 15)
+
+Block 12: (Not Type 15)
+
+Block 13: (Not Type 15)
+
+Block 14: (Not Type 15)
+
+Block 15: (Not Type 15)
+
+Block 16: (Not Type 15)
+
+Block 17: (Not Type 15)
+
+Block 18: (Not Type 15)
+
+Block 19: (Not Type 15)
+
+Block 20: (Not Type 15)
+
+Block 21: (Not Type 15)
+
+Block 22: (Not Type 15)
+
+Block 23: (Not Type 15)
+
+Block 24: (Not Type 15)
+
+Block 25: (Not Type 15)
+
+Block 26: (Not Type 15)
+
+Block 27: (Not Type 15)
+
+Block 28: (Not Type 15)
+
+Block 29: (Not Type 15)
+
+Block 30: (Not Type 15)
+
+Block 31: (Not Type 15)
+
+Block 32: (Not Type 15)
+
+Block 33: (Not Type 15)
+
+Block 34: (Not Type 15)
+
+Block 35: (Not Type 15)
+
+Block 36: (Not Type 15)
+
+Block 37: (Not Type 15)
+
+Block 38: (Not Type 15)
+
+Block 39: (Not Type 15)
+
+Block 40: (Not Type 15)
+
+Block 41: (Type 15 Detected):
+type:15
+Length: 29
+Handle: 0x23(35)
+Log Area Length: 0
+Log Header Start Offset: 0
+Log Data Start Offset: 0x2000
+Access Method: Available through General-Purpose NonVolatile Data functions.
+Log Status: Log area valid
+Log Change Token: 0x12345678
+Access Method Address: {'PhysicalAddr32': '0x0'}
+Log Header Format: BIOS vendor or OEM-specific format
+Number of Supported Log Type Descriptors: 3
+Length of each Log Type Descriptor: 2
+List of Supported Event Log Type Descriptor:
+[92m System Event Log Type: POST Memory Resize [0m
+[92m Event Log Variable Data Format Types: None [0m
+[92m System Event Log Type: POST Error [0m
+[92m Event Log Variable Data Format Types: POST Results Bitmap [0m
+[92m System Event Log Type: Log Area Reset/Cleared [0m
+[92m Event Log Variable Data Format Types: None [0m
+
+Block 42: (Not Type 15)
+
+Block 43: (Not Type 15)
+
+Block 44: (Not Type 15)
+
+Block 45: (Not Type 15)
+
+Block 46: (Not Type 15)
+
+Block 47: (Not Type 15)
+
+Block 48: (Not Type 15)
+
+Block 49: (Not Type 15)
+
+Block 50: (Not Type 15)
+
+Block 51: (Not Type 15)
+
+Block 52: (Not Type 15)
+
+Block 53: (Not Type 15)
+
+Block 54: (Not Type 15)
+
+Block 55: (Not Type 15)
+
+Block 56: (Not Type 15)
+
+Block 57: (Not Type 15)
+
+Block 58: (Not Type 15)
+
+Block 59: (Not Type 15)
+
+Block 60: (Not Type 15)
+
+Block 61: (Not Type 15)
+
+Block 62: (Not Type 15)
+
+Block 63: (Not Type 15)
+
+Block 64: (Not Type 15)
+
+Block 65: (Not Type 15)
+
+Block 66: (Not Type 15)
+
+Block 67: (Not Type 15)
+
+Block 68: (Not Type 15)
+
+Block 69: (Not Type 15)
+
+Block 70: (Not Type 15)
+
+Block 71: (Not Type 15)
+
+Block 72: (Not Type 15)
+
+Block 73: (Not Type 15)
+
+
+Number of non-Type 15 blocks: 72

@@ -1,0 +1,108 @@
+SMBIOS Entry Point Structure:
+Anchor String:        _SM_
+EPS Checksum:         0xF
+Entry Point Len:      31
+Version:              3.0
+Number of Structures: 65
+Max Struct size:      368
+Table Address:        0x8A2D1000
+Table Length:         3850
+Entry Point revision: 0x0
+SMBIOS BCD Revision:  0x30
+Inter Anchor:         _DMI_
+Inter Checksum:       0x17
+Formatted Area:  
+  00000000: 00 00 00 00 00                                   *.....*
+
+=========================================================
+Query Structure, conditions are:
+QueryType   = 15
+QueryHandle = Random
+ShowType    = SHOW_DETAIL
+
+
+=========================================================
+Type=15, Handle=0x23
+Dump Structure as:
+Index=35,Length=0x1F,Addr=0x8A2D160E
+00000000: 0F 1D 23 00 00 00 00 00-00 20 04 01 78 56 34 12  *..#...... ..xV4.*
+00000010: 00 00 00 00 80 03 02 07-00 08 04 16 00 00 00     *...............*
+Structure Type: System Event Log 
+Format part Len : 29
+Structure Handle: 35
+LogAreaLength: 0x0
+LogHeaderStartOffset: 0x0
+LogDataStartOffset: 0x2000
+Access method: Available via General-Purpose NonVolatile Data functions
+AccessMethodAddress: 0x0
+Log Status: Log area valid
+Log area not full
+LogChangeToken: 0x12345678
+Log Header Format: 
+BIOS Vendor/OEM-specific format
+NumberOfSupportedLogTypeDescriptors: 0x3
+LengthOfLogTypeDescriptor: 0x2
+Supported Event Log Type Descriptors 1:
+System Event Log Type:  POST Memory Resize
+Event Log Variable Data Format Types:  None 
+Supported Event Log Type Descriptors 2:
+System Event Log Type:  POST Error
+Event Log Variable Data Format Types:  POST Results Bitmap 
+Supported Event Log Type Descriptors 3:
+System Event Log Type:  Log Area Reset/Cleared
+Event Log Variable Data Format Types:  None 
+Access Method 4 has not supported
+
+
+=========================================================
+SMBIOS 3.0 (64-bit) Entry Point Structure:
+Anchor String:        _SM3_
+EPS Checksum:         0x93
+Entry Point Len:      24
+Version:              3.0
+SMBIOS Docrev:        0x1
+Table Max Size:       3850
+Table Address:        0x8A2CF000
+Entry Point revision: 0x1
+
+=========================================================
+Query Structure, conditions are:
+QueryType   = 15
+QueryHandle = Random
+ShowType    = SHOW_DETAIL
+
+
+=========================================================
+Type=15, Handle=0x23
+Dump Structure as:
+Index=35,Length=0x1F,Addr=0x8A2CF60E
+00000000: 0F 1D 23 00 00 00 00 00-00 20 04 01 78 56 34 12  *..#...... ..xV4.*
+00000010: 00 00 00 00 80 03 02 07-00 08 04 16 00 00 00     *...............*
+Structure Type: System Event Log 
+Format part Len : 29
+Structure Handle: 35
+LogAreaLength: 0x0
+LogHeaderStartOffset: 0x0
+LogDataStartOffset: 0x2000
+Access method: Available via General-Purpose NonVolatile Data functions
+AccessMethodAddress: 0x0
+Log Status: Log area valid
+Log area not full
+LogChangeToken: 0x12345678
+Log Header Format: 
+BIOS Vendor/OEM-specific format
+NumberOfSupportedLogTypeDescriptors: 0x3
+LengthOfLogTypeDescriptor: 0x2
+Supported Event Log Type Descriptors 1:
+System Event Log Type:  POST Memory Resize
+Event Log Variable Data Format Types:  None 
+Supported Event Log Type Descriptors 2:
+System Event Log Type:  POST Error
+Event Log Variable Data Format Types:  POST Results Bitmap 
+Supported Event Log Type Descriptors 3:
+System Event Log Type:  Log Area Reset/Cleared
+Event Log Variable Data Format Types:  None 
+Access Method 4 has not supported
+
+
+=========================================================
