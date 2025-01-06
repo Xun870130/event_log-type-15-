@@ -36,7 +36,6 @@ A Python-based utility for analyzing event logs, extracting hexadecimal blocks, 
 Clone the repository:
 
 ```bash
-複製程式碼
 git clone https://github.com/your-username/event-log-analyzer.git
 cd event-log-analyzer
 ```
@@ -45,7 +44,6 @@ Install dependencies:
 - Ensure you have Python 3.10+ installed.
 - Install any missing modules using pip:
 ```bash
-複製程式碼
 pip install <module_name>
 ```
 Update the smbios_type15.ini file if needed.
@@ -56,7 +54,6 @@ Place your log file in the appropriate directory.
 Run the script using the command below:
 
 ```bash
-複製程式碼
 python EventLogAnalyzer.py "D:\VScode\project\event_log\example\1224smbios.log"
 ```
 2. Using the Batch File
@@ -68,7 +65,6 @@ Double-click run.bat to execute.
 Example run.bat:
 
 ```plaintext
-複製程式碼
 @echo off
 event_log_analyzer.exe D:\VScode\project\event_log\example\1224smbios.log
 :WAIT
@@ -88,6 +84,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 Fork the repository.
 Create a new branch for your feature/bug fix.
 Submit a pull request.
-## License 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
