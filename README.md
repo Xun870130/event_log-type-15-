@@ -32,7 +32,7 @@ A Python-based utility for analyzing event logs, extracting hexadecimal blocks, 
 - re
 
 ##　Setup Instructions 🛠️
-
+---
 Clone the repository:
 
 ```bash
