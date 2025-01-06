@@ -1,4 +1,3 @@
-
 # Event Log Analyzer 🛠️
 
 A Python-based utility for analyzing event logs, extracting hexadecimal blocks, and detecting SMBIOS Type 15 entries. This project is designed for developers and system engineers who need detailed insights from event logs.
@@ -23,9 +22,7 @@ A Python-based utility for analyzing event logs, extracting hexadecimal blocks, 
 ├── smbios_type15.ini        # Configuration file for SMBIOS Type 15
 ├── run.bat                  # Batch file for quick execution
 ├── README.md                # Project documentation
-
-# Requirements 📦
-
+Requirements 📦
 Python 3.7+
 Required modules:
 os
@@ -35,13 +32,12 @@ re
 Setup Instructions 🛠️
 Clone the repository:
 
-```bash
-
+bash
+複製程式碼
 git clone https://github.com/your-username/event-log-analyzer.git
 cd event-log-analyzer
 Install dependencies:
 
-```
 Ensure you have Python 3.7+ installed.
 Install any missing modules using pip:
 bash
@@ -64,7 +60,8 @@ A convenient run.bat is provided for quick execution:
 Place the batch file (run.bat) in the project directory.
 Update the file path in the .bat file if necessary.
 Double-click run.bat to execute.
-Example:
+Example run.bat:
+
 plaintext
 複製程式碼
 @echo off
@@ -90,12 +87,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact 📧
 If you have any questions or suggestions, feel free to contact me at your-email@example.com.
-
-Happy analyzing! 🎉
-
-vbnet
-複製程式碼
-
-**Feel free to customize the placeholders like `your-username`, `your-email@example.com`, and the repository URL to match your details.** 
-
-[Click here to try a powerful new GPT!](https://f614.short.gy/Code)
